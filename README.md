@@ -49,6 +49,8 @@ Follow these steps to get started with this project:
       ```bash
       truffle compile
 
+![Screenshot 2023-11-20 224925](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/80eb4512-dd45-498f-a64e-0c7535c39c3a)
+
    - Deploying Smart Contracts:
 
      This command will deploy the contracts defined in your migrations scripts to the specified network.
@@ -56,12 +58,26 @@ Follow these steps to get started with this project:
       ```bash
       truffle migrate
 
+![Screenshot 2023-11-20 230251](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/5d709c2c-b200-4d7a-999b-d872f1a5bd75)
+
+![Screenshot 2023-11-20 230330](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/48a5fa14-2f6a-4459-8e35-9790caf9eb58)
+
    - Runs tests
 
      Once deployed, verify the deployment status and test the functionality of the smart contracts using Truffle's testing suite.
 
       ```bash
       truffle test
+
+![Screenshot 2023-11-20 231717](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/c83c6310-d508-4c13-b602-0a77393c01c6)
+
+
+  - Interact with your smart contract using the Truffle console:
+
+![Screenshot 2023-11-20 233756](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/6acb583d-8197-4ac1-86d0-a1f7f47bfa59)
+
+![Screenshot 2023-11-20 233939](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/f4c00efa-f33a-4915-bb71-16b74c6999ac)
+
 5. Installing MetaMask
    Click on the link, and it will take you to the download page : 
 <a href="https://metamask.io/" target="_blank"> Metamask </a>
@@ -83,15 +99,16 @@ The project covers the following topics:
 - Creating a user interface to interact with the smart contract
 - Interacting with the DApp in a browser
 
-## Testing
+## Testing the Application with MetaMask Extension
 
-- To interact with the DApp, click the "Adopt" button corresponding to your selected pet.
-
-
-![Screenshot 2023-10-20 202525](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/a949694b-af1a-4177-8033-68bbda1c4baa)
+Launch the Application and connect MetaMask, it will inject a web3 instance into the browser, enabling interaction with the Ethereum blockchain.
 
 
-- MetaMask will automatically prompt you to confirm the transaction. Click "Submit" to approve the transaction.
+![Screenshot 2023-11-20 234849](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/8b9743f3-e3d1-4c29-aafd-76825dd7fc74)
+
+
+- Ensure MetaMask is unlocked and connected to the correct network.
+MetaMask will automatically prompt you to confirm the transaction. Click "Submit" to approve the transaction.
 
 
 ![picture_3](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/248f8f69-7bd4-470b-995f-d432a0efb526)
