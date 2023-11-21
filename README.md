@@ -108,13 +108,11 @@ Launch the Application and connect MetaMask, it will inject a web3 instance into
 
 
 - Ensure MetaMask is unlocked and connected to the correct network.
-MetaMask will automatically prompt you to confirm the transaction. Click "Submit" to approve the transaction.
-
+- Make sure to have Ether in your MetaMask account to cover gas fees for transactions.
+- Explore the interface to view candidates, cast votes, and track election results as per the application's functionality.
+- MetaMask will display transaction prompts when interacting with the smart contracts.
 
 ![picture_3](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/248f8f69-7bd4-470b-995f-d432a0efb526)
-
-
-- The "Adopt" button for the chosen pet will change to "Success" and become disabled, as specified, indicating that the pet has been successfully adopted. In MetaMask, you will find the transaction listed.
 
 
 ![Screenshot 2023-10-20 202410](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/a368714f-17e6-47a5-a284-5eeaa8b5c1e6)
