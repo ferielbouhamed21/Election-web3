@@ -112,19 +112,22 @@ Launch the Application and connect MetaMask, it will inject a web3 instance into
 - Explore the interface to view candidates, cast votes, and track election results as per the application's functionality.
 - MetaMask will display transaction prompts when interacting with the smart contracts.
 
-![picture_3](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/248f8f69-7bd4-470b-995f-d432a0efb526)
+![image](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/929c6f57-e8a6-4dc9-b2f0-3cfe54490f1b)
 
 
-![Screenshot 2023-10-20 202410](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/a368714f-17e6-47a5-a284-5eeaa8b5c1e6)
+![image](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/ce21f80e-06fb-433c-b31e-79690cf97f42)
 
 
-![picture_7](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/e5fbd722-2190-4098-8c5e-246e43d4b9b4)
+![image](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/202f30d8-453d-4514-8f3e-de43838209d5)
 
 
-- You can also view the same transaction in the "Transactions" section within Ganache.
+- Within Ganache, you can access the same transaction in the "Transactions" section. Additionally, details about the created blocks, in the "Blocks" section, such as mining date, time, and gas used, can be found.
 
 
-![image](https://github.com/ferielbouhamed21/Pet-Shop/assets/78966152/5889011d-d4fe-40e2-bd4e-2b23a32f9e92)
+![image](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/384338b8-6936-44c8-93d5-84e8024a1e89)
+
+
+![image](https://github.com/ferielbouhamed21/Election-web3/assets/78966152/b4646c48-0a84-45a1-97a8-a4ab1862dc43)
 
 
 ## Contributing
